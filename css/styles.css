@@ -148,7 +148,7 @@ header .container {
 /* Sección Hero */
 .hero {
     padding: 180px 0 100px;
-    background: linear-gradient(rgba(37, 99, 235, 0.9), rgba(30, 64, 175, 0.85)), url('/api/placeholder/1920/1080') no-repeat center center/cover;
+    background: linear-gradient(rgba(18, 72, 180, 0.9), rgba(0, 0, 2, 0.85)), url('/api/placeholder/1920/1080') no-repeat center center/cover;
     text-align: center;
     color: var(--light-text);
 }
